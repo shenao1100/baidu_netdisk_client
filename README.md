@@ -2,6 +2,10 @@
 
 百度网盘管理器/第三方客户端
 
+# 本软件已归档并转移
+
+<h1><a href="https://github.com/shenao1100/Baidu_Netdisk_thirdpart">点击跳转</a></h1>
+
 ***
 
 # 缺点
